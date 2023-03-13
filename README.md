@@ -20,4 +20,4 @@
 
 1. Курсовой проект.
 2. Техническое задание.
-3. [Использованные диаграммы.](https://github.com/5david-hub5/TP-4.1-5/tree/main/documentations/diagrams)
+3. [Созданные диаграммы.](https://github.com/5david-hub5/TP-4.1-5/tree/main/documentations/diagrams)
