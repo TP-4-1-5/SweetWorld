@@ -7,8 +7,8 @@
 
 # Команда по созданию проекта:
 
-1. [Агабабян Давид](https://github.com/5david-hub5) - Тимлид <br />
-2. [Гранкина Ангелина](https://github.com/anggrankn) - Бизнес-аналитик<br />
+1. [Агабабян Давид](https://github.com/5david-hub5) <br />
+2. [Гранкина Ангелина](https://github.com/anggrankn) <br />
 
 # Сервисы для работы
 
