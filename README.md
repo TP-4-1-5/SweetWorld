@@ -19,5 +19,5 @@
 # Документация
 
 1. [Курсовой проект](https://github.com/5david-hub5/TP-4.1-5/tree/main/Документация/Курсовой%20проект)
-2. [Техническое задание](https://github.com/5david-hub5/TP-4.1-5/tree/main/documentations)
+2. [Техническое задание](https://github.com/5david-hub5/TP-4.1-5/tree/main/Документация/Техническое%20задание)
 3. [Созданные диаграммы](https://github.com/5david-hub5/TP-4.1-5/tree/main/documentations/diagrams)
