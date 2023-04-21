@@ -12,6 +12,9 @@
 1. [Агабабян Давид](https://github.com/5david-hub5) <br />
 2. [Гранкина Ангелина](https://github.com/anggrankn) <br />
 
+# Код программы
+[Приложение с клиент-серверной архитектурой](https://github.com/5david-hub5/TP-4.1-5/tree/devop)
+
 # Сервисы для работы
 
 [Trello](https://trello.com/invite/b/OQpSb9Hd/ATTI608e3127e220e63697dd4684c5336c50C8536845/интернет-магазин-кондитерских-изделий) <br /> 
@@ -24,4 +27,4 @@
 2. [Техническое задание](https://github.com/5david-hub5/TP-4.1-5/tree/main/Документация/Техническое%20задание)
 3. [Созданные диаграммы](https://github.com/5david-hub5/TP-4.1-5/tree/main/Документация/Диаграммы)
 4. [Видеопрезентация технического задания](https://drive.google.com/drive/folders/1tdfoMPT3TbQhEh2JPPUHO9nkxyKuI2dQ)
-5. [Исходный код программы](https://github.com/5david-hub5/TP-4.1-5/tree/devop)
+
