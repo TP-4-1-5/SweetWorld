@@ -1,6 +1,10 @@
 # Название проекта
 Каталог кондитерских изделий "Sweet World" <br />
 
+[Backend](https://github.com/TP-4-1-5/SweetWorld_Backend) <br />
+[Frontend](https://github.com/TP-4-1-5/SweetWorld_Frontend) <br />
+[Deploy](https://github.com/TP-4-1-5/SweetWorld_Deploy) <br />
+
 # Описание и особенности проекта
 
 Данный проект представляет собой каталог кондитерских изделий, где будет собрана информация по популярным товарам от лучших кондитерских предприятий России. <br />
