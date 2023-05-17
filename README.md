@@ -1,10 +1,6 @@
 # Название проекта
 Каталог кондитерских изделий "Sweet World" <br />
 
-[Backend](https://github.com/TP-4-1-5/SweetWorld_Backend) <br />
-[Frontend](https://github.com/TP-4-1-5/SweetWorld_Frontend) <br />
-[Deploy](https://github.com/TP-4-1-5/SweetWorld_Deploy) <br />
-
 # Описание и особенности проекта
 
 Данный проект представляет собой каталог кондитерских изделий, где будет собрана информация по популярным товарам от лучших кондитерских предприятий России. <br />
@@ -17,7 +13,9 @@
 2. [Гранкина Ангелина](https://github.com/anggrankn) <br />
 
 # Код программы
-[Приложение с клиент-серверной архитектурой](https://github.com/5david-hub5/TP-4.1-5/tree/devop)
+[Backend](https://github.com/TP-4-1-5/SweetWorld_Backend) <br />
+[Frontend](https://github.com/TP-4-1-5/SweetWorld_Frontend) <br />
+[Deploy](https://github.com/TP-4-1-5/SweetWorld_Deploy) <br />
 
 # Сервисы для работы
 
