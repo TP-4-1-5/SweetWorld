@@ -17,6 +17,9 @@
 [Frontend](https://github.com/TP-4-1-5/SweetWorld_Frontend) <br />
 [Deploy](https://github.com/TP-4-1-5/SweetWorld_Deploy) <br />
 
+# Видеообзор веб-приложения
+[Видеообзор функционала неавторизованного/авторизованного пользователя и администратора](https://drive.google.com/drive/folders/12Ir2XbXpWMXtdu72nhvXc2MRxaKGYdFF) <br />
+
 # Сервисы для работы
 
 [Trello](https://trello.com/invite/b/OQpSb9Hd/ATTI608e3127e220e63697dd4684c5336c50C8536845/интернет-магазин-кондитерских-изделий) <br /> 
