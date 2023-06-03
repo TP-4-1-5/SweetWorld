@@ -1,5 +1,6 @@
 # Название проекта
-Каталог кондитерских изделий "Sweet World" <br />
+
+[Каталог кондитерских изделий "Sweet World"](http://84.201.131.3:3000/) <br />
 
 # Описание и особенности проекта
 
@@ -13,6 +14,7 @@
 2. [Гранкина Ангелина](https://github.com/anggrankn) <br />
 
 # Код программы
+
 [Backend](https://github.com/TP-4-1-5/SweetWorld_Backend) <br />
 [Frontend](https://github.com/TP-4-1-5/SweetWorld_Frontend) <br />
 [Deploy](https://github.com/TP-4-1-5/SweetWorld_Deploy) <br />
@@ -33,5 +35,6 @@
 [Созданные диаграммы](https://github.com/5david-hub5/TP-4.1-5/tree/main/Документация/Диаграммы)<br />
 
 # Видеообзор веб-приложения
+
 [Видеообзор функционала неавторизованного/авторизованного пользователя и администратора](https://drive.google.com/drive/folders/12Ir2XbXpWMXtdu72nhvXc2MRxaKGYdFF) <br />
 [Видеообзор кода клиентской, серверной части приложения и развертывания](https://drive.google.com/drive/folders/1D7KICXvcYsBMLnA0ylRY06jqAEy6gldy?usp=sharing)
