@@ -30,7 +30,7 @@
 4. [Видеопрезентация технического задания](https://drive.google.com/drive/folders/1tdfoMPT3TbQhEh2JPPUHO9nkxyKuI2dQ)
 5. [Дизайн-макеты каталога кондитерских изделий](https://www.figma.com/file/xlOiKHGl7erPq4G8NzsQIR/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BA%D0%BE%D0%BD%D0%B4%D0%B8%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D0%B9?node-id=0%3A1&t=lXGr6DoFeFiZbmUZ-1)
 6. [Документация. Swagger](http://84.201.131.3:30/swagger/)
-7. [Аналитика проекта]()
+7. [Аналитика проекта](https://metrika.yandex.ru/dashboard?id=93823460)
 
 # Видеообзор веб-приложения
 [Видеообзор функционала неавторизованного/авторизованного пользователя и администратора](https://drive.google.com/drive/folders/12Ir2XbXpWMXtdu72nhvXc2MRxaKGYdFF) <br />
