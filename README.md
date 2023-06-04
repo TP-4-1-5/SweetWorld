@@ -36,5 +36,6 @@
 
 # Видеообзор веб-приложения
 
+[Видеообзор веб-приложения Sweet World](https://drive.google.com/drive/folders/19DGw8mA28d1jB81DsizeMJs2b6eYKsef?usp=sharing)<br />
 [Видеообзор функционала неавторизованного,авторизованного пользователя и администратора](https://drive.google.com/drive/folders/12Ir2XbXpWMXtdu72nhvXc2MRxaKGYdFF) <br />
 [Видеообзор кода клиентской, серверной части приложения и развертывания](https://drive.google.com/drive/folders/1D7KICXvcYsBMLnA0ylRY06jqAEy6gldy?usp=sharing)
