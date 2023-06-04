@@ -10,8 +10,8 @@
 
 # Команда по созданию проекта
 
-1. [Агабабян Давид](https://github.com/5david-hub5) <br />
-2. [Гранкина Ангелина](https://github.com/anggrankn) <br />
+1. [Агабабян Давид](https://github.com/5david-hub5) - тимлид проекта, frontend-разработчик <br />
+2. [Гранкина Ангелина](https://github.com/anggrankn) - бизнес-аналитик проекта, backend-разработчик <br />
 
 # Код программы
 
