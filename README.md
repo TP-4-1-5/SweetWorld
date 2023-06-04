@@ -36,5 +36,5 @@
 
 # Видеообзор веб-приложения
 
-[Видеообзор функционала неавторизованного/авторизованного пользователя и администратора](https://drive.google.com/drive/folders/12Ir2XbXpWMXtdu72nhvXc2MRxaKGYdFF) <br />
+[Видеообзор функционала неавторизованного,авторизованного пользователя и администратора](https://drive.google.com/drive/folders/12Ir2XbXpWMXtdu72nhvXc2MRxaKGYdFF) <br />
 [Видеообзор кода клиентской, серверной части приложения и развертывания](https://drive.google.com/drive/folders/1D7KICXvcYsBMLnA0ylRY06jqAEy6gldy?usp=sharing)
