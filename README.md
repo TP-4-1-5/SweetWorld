@@ -51,7 +51,7 @@
 
 # Документация
 
-[Курсовой проект](https://github.com/TP-4-1-5/SweetWorld/tree/main/Документация/Курсовой%20проект%20веб-приложения)<br />
+[Курсовой проект](https://github.com/TP-4-1-5/SweetWorld/tree/main/Документация/Курсовой%20проект)<br />
 [Техническое задание](https://github.com/5david-hub5/TP-4.1-5/tree/main/Документация/Техническое%20задание)<br />
 [Созданные диаграммы](https://github.com/5david-hub5/TP-4.1-5/tree/main/Документация/Диаграммы)<br />
 [Сопроводительное письмо](https://github.com/TP-4-1-5/SweetWorld/tree/main/Документация/Сопроводительное%20письмо)<br />
@@ -59,6 +59,7 @@
 
 # Видеообзор веб-приложения
 
+[Презентация проекта](https://github.com/TP-4-1-5/SweetWorld/tree/main/Документация/Презентация%20проекта)<br />
 [Видеообзор веб-приложения Sweet World](https://drive.google.com/drive/folders/19DGw8mA28d1jB81DsizeMJs2b6eYKsef?usp=sharing)<br />
 [Видеообзор функционала неавторизованного, авторизованного пользователя и администратора](https://drive.google.com/drive/folders/12Ir2XbXpWMXtdu72nhvXc2MRxaKGYdFF) <br />
 [Видеообзор кода клиентской, серверной части приложения и развертывания](https://drive.google.com/drive/folders/1D7KICXvcYsBMLnA0ylRY06jqAEy6gldy?usp=sharing)
